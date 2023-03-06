@@ -6,5 +6,5 @@ def task6():
     FOR number 1 to 100
     IF number is multiple of 5
     OUTPUT number
-    
+
     """

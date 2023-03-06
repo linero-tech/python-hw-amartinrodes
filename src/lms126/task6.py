@@ -2,4 +2,9 @@ from to_do import TODO
 
 
 def task6():
-    return TODO("Erase this line and write your solution")
+    return """
+    FOR number 1 to 100
+    IF number is multiple of 5
+    OUTPUT number
+    
+    """

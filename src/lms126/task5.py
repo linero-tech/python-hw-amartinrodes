@@ -2,4 +2,9 @@ from to_do import TODO
 
 
 def task5():
-    return TODO("Erase this line and write your solution")
+ return """
+ IF X equals 1 OUTPUT "Monday"
+ IF X equals 2 OUTPUT "Tuesday"
+ ...
+ ELSE OUTPUT "Error"
+ """

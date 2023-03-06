@@ -2,4 +2,13 @@ from to_do import TODO
 
 
 def task10():
-    return TODO("Erase this line and write your solution")
+    return """
+    INPUT username
+    check is available if not repeat
+    
+    WHILE password length<7
+    INPUT password
+    get password length
+    
+    end process
+    """
